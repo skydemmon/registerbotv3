@@ -1,0 +1,419 @@
+2021-01-15 15:17:31,546:INFO:discord.client: logging in using static token
+2021-01-15 15:17:35,047:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-15 15:17:35,283:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-b5rk",{"micros":104003,"calls":["discord-sessions-prd-2-68",{"micros":101786,"calls":["start_session",{"micros":59657,"calls":["api-prd-main-f9xv",{"micros":53586,"calls":["get_user",{"micros":6994},"add_authorized_ip",{"micros":8373},"get_guilds",{"micros":7769},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":14629,"calls":[]}]}]}] (Session ID: 85512d844568fe80829a1bb852990eaf).
+2021-01-21 10:02:13,202:INFO:discord.client: logging in using static token
+2021-01-21 10:02:13,874:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:02:14,100:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-j4x7",{"micros":66636,"calls":["discord-sessions-prd-2-24",{"micros":65167,"calls":["start_session",{"micros":56331,"calls":["api-prd-main-64wm",{"micros":48464,"calls":["get_user",{"micros":5050},"add_authorized_ip",{"micros":3463},"get_guilds",{"micros":7009},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":3970,"calls":[]}]}]}] (Session ID: 4a30a208cdd81c76ab8959eab8d578ec).
+2021-01-21 10:03:16,748:INFO:discord.client: logging in using static token
+2021-01-21 10:03:17,632:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:03:17,908:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-5k6v",{"micros":133397,"calls":["discord-sessions-prd-2-44",{"micros":131239,"calls":["start_session",{"micros":104737,"calls":["api-prd-main-b20l",{"micros":101287,"calls":["get_user",{"micros":8250},"add_authorized_ip",{"micros":14868},"get_guilds",{"micros":17869},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":20267,"calls":[]}]}]}] (Session ID: aee59ae3c8633267e7c23f17d0752bbe).
+2021-01-21 10:06:44,345:INFO:discord.client: logging in using static token
+2021-01-21 10:06:45,185:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:06:45,464:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-87qv",{"micros":128993,"calls":["discord-sessions-prd-2-100",{"micros":128011,"calls":["start_session",{"micros":65560,"calls":["api-prd-main-btsj",{"micros":62745,"calls":["get_user",{"micros":12015},"add_authorized_ip",{"micros":1251},"get_guilds",{"micros":21423},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":9,"calls":[]},"presence_connect",{"micros":29658,"calls":[]}]}]}] (Session ID: e31f4d060b1d7a41f6fc0383586f2a48).
+2021-01-21 10:12:25,488:INFO:discord.client: logging in using static token
+2021-01-21 10:12:26,192:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:12:26,440:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-rhhv",{"micros":81686,"calls":["discord-sessions-prd-2-17",{"micros":71035,"calls":["start_session",{"micros":32661,"calls":["api-prd-main-bkzs",{"micros":30201,"calls":["get_user",{"micros":2360},"add_authorized_ip",{"micros":2012},"get_guilds",{"micros":3675},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":4731,"calls":[]}]}]}] (Session ID: 95ec2c3648f37b6728b06010f8e29b87).
+2021-01-21 10:13:40,676:INFO:discord.client: logging in using static token
+2021-01-21 10:13:41,355:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:13:41,585:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-9lhs",{"micros":90596,"calls":["discord-sessions-prd-2-116",{"micros":87646,"calls":["start_session",{"micros":59311,"calls":["api-prd-main-bjns",{"micros":50948,"calls":["get_user",{"micros":8649},"add_authorized_ip",{"micros":2701},"get_guilds",{"micros":5145},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":10,"calls":[]},"presence_connect",{"micros":22130,"calls":[]}]}]}] (Session ID: 5184753d08daa66b43e996053a091352).
+2021-01-21 10:16:04,818:INFO:discord.client: logging in using static token
+2021-01-21 10:16:05,607:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:16:05,866:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-8fmh",{"micros":123970,"calls":["discord-sessions-prd-2-73",{"micros":122535,"calls":["start_session",{"micros":75082,"calls":["api-prd-main-7mfb",{"micros":70147,"calls":["get_user",{"micros":4378},"add_authorized_ip",{"micros":1709},"get_guilds",{"micros":22804},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":6,"calls":[]},"presence_connect",{"micros":42801,"calls":[]}]}]}] (Session ID: e1a03535f340b718c832ffca7b511ef3).
+2021-01-21 10:18:51,233:INFO:discord.client: logging in using static token
+2021-01-21 10:18:52,148:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:18:52,351:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-9lhs",{"micros":51067,"calls":["discord-sessions-prd-2-75",{"micros":49887,"calls":["start_session",{"micros":31779,"calls":["api-prd-main-c008",{"micros":29590,"calls":["get_user",{"micros":1870},"add_authorized_ip",{"micros":1184},"get_guilds",{"micros":3290},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":23,"calls":[]},"presence_connect",{"micros":3464,"calls":[]}]}]}] (Session ID: 2e90c907385f6fd2cad7d269a8553c73).
+2021-01-21 10:25:20,264:INFO:discord.client: logging in using static token
+2021-01-21 10:25:20,961:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:25:21,218:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-f2tk",{"micros":94399,"calls":["discord-sessions-prd-2-32",{"micros":92558,"calls":["start_session",{"micros":30844,"calls":["api-prd-main-7s7r",{"micros":28322,"calls":["get_user",{"micros":3211},"add_authorized_ip",{"micros":1708},"get_guilds",{"micros":3997},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":40849,"calls":[]}]}]}] (Session ID: 656c509198ac483768b69ec911addee0).
+2021-01-21 10:26:16,712:INFO:discord.client: logging in using static token
+2021-01-21 10:26:17,451:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:26:17,685:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-7hrx",{"micros":86647,"calls":["discord-sessions-prd-2-34",{"micros":84098,"calls":["start_session",{"micros":53624,"calls":["api-prd-main-d9bx",{"micros":49316,"calls":["get_user",{"micros":3955},"add_authorized_ip",{"micros":5528},"get_guilds",{"micros":5469},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":7,"calls":[]},"presence_connect",{"micros":12299,"calls":[]}]}]}] (Session ID: 1941c259ca352e8127ccd758ea13de76).
+2021-01-21 10:28:51,209:INFO:discord.client: logging in using static token
+2021-01-21 10:28:51,830:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:28:52,030:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-jbt0",{"micros":54044,"calls":["discord-sessions-prd-2-82",{"micros":52960,"calls":["start_session",{"micros":31283,"calls":["api-prd-main-x36j",{"micros":28452,"calls":["get_user",{"micros":2689},"add_authorized_ip",{"micros":1371},"get_guilds",{"micros":3375},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":4840,"calls":[]}]}]}] (Session ID: cf101f87d95d2bb34365acfab51005a7).
+2021-01-21 10:30:27,998:INFO:discord.client: logging in using static token
+2021-01-21 10:30:28,752:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:30:28,996:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-ncvv",{"micros":84669,"calls":["discord-sessions-prd-2-28",{"micros":83600,"calls":["start_session",{"micros":38463,"calls":["api-prd-main-07k8",{"micros":36120,"calls":["get_user",{"micros":2542},"add_authorized_ip",{"micros":2937},"get_guilds",{"micros":9990},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":22,"calls":[]},"presence_connect",{"micros":9321,"calls":[]}]}]}] (Session ID: cf332fc2237f66f3e46007e41e494c42).
+2021-01-21 10:31:39,757:INFO:discord.client: logging in using static token
+2021-01-21 10:31:40,472:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:31:40,709:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-n391",{"micros":80953,"calls":["discord-sessions-prd-2-17",{"micros":79426,"calls":["start_session",{"micros":39323,"calls":["api-prd-main-s0j5",{"micros":36895,"calls":["get_user",{"micros":3119},"add_authorized_ip",{"micros":1285},"get_guilds",{"micros":6459},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":10,"calls":[]},"presence_connect",{"micros":35522,"calls":[]}]}]}] (Session ID: 05644658de707de4cd721efab0821aad).
+2021-01-21 10:51:16,881:INFO:discord.client: logging in using static token
+2021-01-21 10:51:17,700:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:51:17,986:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-vl2d",{"micros":106220,"calls":["discord-sessions-prd-2-69",{"micros":101021,"calls":["start_session",{"micros":50477,"calls":["api-prd-main-kfhj",{"micros":46490,"calls":["get_user",{"micros":6434},"add_authorized_ip",{"micros":1621},"get_guilds",{"micros":10255},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":8,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: f630fae9fa5f387df963f2084ae82e3d).
+2021-01-21 10:53:21,620:INFO:discord.client: logging in using static token
+2021-01-21 10:53:22,488:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:53:22,691:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-fdnq",{"micros":79362,"calls":["discord-sessions-prd-2-20",{"micros":78535,"calls":["start_session",{"micros":34281,"calls":["api-prd-main-b9r7",{"micros":31032,"calls":["get_user",{"micros":2969},"add_authorized_ip",{"micros":1788},"get_guilds",{"micros":4487},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":4,"calls":[]},"presence_connect",{"micros":12472,"calls":[]}]}]}] (Session ID: 85b8769af1623083396cf2bad4cb5a2b).
+2021-01-21 10:55:37,812:INFO:discord.client: logging in using static token
+2021-01-21 10:55:38,499:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 10:55:38,783:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-6f7n",{"micros":113315,"calls":["discord-sessions-prd-2-71",{"micros":111861,"calls":["start_session",{"micros":65618,"calls":["api-prd-main-gz4z",{"micros":62772,"calls":["get_user",{"micros":5603},"add_authorized_ip",{"micros":1986},"get_guilds",{"micros":12763},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":13,"calls":[]},"presence_connect",{"micros":38111,"calls":[]}]}]}] (Session ID: 54c098368d805424a7d0e30577b39062).
+2021-01-21 11:03:48,134:INFO:discord.client: logging in using static token
+2021-01-21 11:03:48,839:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-21 11:03:49,133:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-532j",{"micros":128669,"calls":["discord-sessions-prd-2-32",{"micros":124214,"calls":["start_session",{"micros":71331,"calls":["api-prd-main-pr3h",{"micros":68068,"calls":["get_user",{"micros":4246},"add_authorized_ip",{"micros":2256},"get_guilds",{"micros":22544},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":46329,"calls":[]}]}]}] (Session ID: 3113f52fc8d3cf4e8068eb0b6a720e1d).
+2021-01-22 08:59:58,983:INFO:discord.client: logging in using static token
+2021-01-22 09:00:00,021:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-22 09:00:00,254:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-tmbj",{"micros":89332,"calls":["discord-sessions-prd-2-83",{"micros":79490,"calls":["start_session",{"micros":35623,"calls":["api-prd-main-qhtc",{"micros":31141,"calls":["get_user",{"micros":3048},"add_authorized_ip",{"micros":1418},"get_guilds",{"micros":3983},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":14580,"calls":[]}]}]}] (Session ID: fa0b2b5a779c3a9dbf29b9c36b79efb0).
+2021-01-22 10:40:07,473:INFO:discord.client: logging in using static token
+2021-01-22 10:40:08,053:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-22 10:40:08,276:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-6tf4",{"micros":80502,"calls":["discord-sessions-prd-2-18",{"micros":73242,"calls":["start_session",{"micros":45503,"calls":["api-prd-main-xvdw",{"micros":41213,"calls":["get_user",{"micros":2421},"add_authorized_ip",{"micros":5324},"get_guilds",{"micros":6804},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":7,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 691cf215b9d8e26cc6591d7f22c5d3ec).
+2021-01-22 10:54:38,388:INFO:discord.client: logging in using static token
+2021-01-22 10:54:39,144:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-22 10:54:39,370:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-b5tn",{"micros":77168,"calls":["discord-sessions-prd-2-48",{"micros":75342,"calls":["start_session",{"micros":58290,"calls":["api-prd-main-1tfx",{"micros":56014,"calls":["get_user",{"micros":5328},"add_authorized_ip",{"micros":2916},"get_guilds",{"micros":7427},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":4,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 6495a164fd35ab92f5bb1225fb3e1867).
+2021-01-22 10:55:52,640:INFO:discord.client: logging in using static token
+2021-01-22 10:55:53,263:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-22 10:55:53,539:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-lrmx",{"micros":56876,"calls":["discord-sessions-prd-2-106",{"micros":54479,"calls":["start_session",{"micros":32898,"calls":["api-prd-main-38np",{"micros":30419,"calls":["get_user",{"micros":2780},"add_authorized_ip",{"micros":1499},"get_guilds",{"micros":5881},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":11,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 68c48deae89f9a3dd113abe30efb5846).
+2021-01-22 11:02:51,417:INFO:discord.client: logging in using static token
+2021-01-22 11:02:52,092:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-22 11:02:52,341:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-frsd",{"micros":84120,"calls":["discord-sessions-prd-2-94",{"micros":82072,"calls":["start_session",{"micros":61177,"calls":["api-prd-main-lc6g",{"micros":58314,"calls":["get_user",{"micros":4487},"add_authorized_ip",{"micros":2179},"get_guilds",{"micros":8177},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":4,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: f6f8cb09a6fd17e1820e1e284d50b212).
+2021-01-27 08:54:15,346:INFO:discord.client: logging in using static token
+2021-01-27 08:54:16,024:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-27 08:54:16,310:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-d8d5",{"micros":146629,"calls":["discord-sessions-prd-2-9",{"micros":144879,"calls":["start_session",{"micros":68560,"calls":["api-prd-main-w3f3",{"micros":61826,"calls":["get_user",{"micros":5759},"add_authorized_ip",{"micros":3611},"get_guilds",{"micros":16541},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":4,"calls":[]},"presence_connect",{"micros":42573,"calls":[]}]}]}] (Session ID: b009d085fdc91cea5852fb33f66017f9).
+2021-01-27 08:55:54,704:INFO:discord.client: logging in using static token
+2021-01-27 08:55:55,390:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-27 08:55:55,631:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-swbt",{"micros":108957,"calls":["discord-sessions-prd-2-42",{"micros":108098,"calls":["start_session",{"micros":64625,"calls":["api-prd-main-1hcx",{"micros":60596,"calls":["get_user",{"micros":11489},"add_authorized_ip",{"micros":4243},"get_guilds",{"micros":6162},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":15065,"calls":[]}]}]}] (Session ID: aaffada38f91f8afeebc49867838f8e8).
+2021-01-27 08:57:40,855:INFO:discord.client: logging in using static token
+2021-01-27 08:57:41,583:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-27 08:57:41,827:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-w599",{"micros":114856,"calls":["discord-sessions-prd-2-13",{"micros":112631,"calls":["start_session",{"micros":81207,"calls":["api-prd-main-db3n",{"micros":71657,"calls":["get_user",{"micros":3498},"add_authorized_ip",{"micros":9134},"get_guilds",{"micros":9669},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":6,"calls":[]},"presence_connect",{"micros":11743,"calls":[]}]}]}] (Session ID: a7f7fc03420e5c40afb7ca6d030ca8c7).
+2021-01-27 08:59:15,023:INFO:discord.client: logging in using static token
+2021-01-27 08:59:15,670:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-27 08:59:15,902:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-6t4s",{"micros":87061,"calls":["discord-sessions-prd-2-89",{"micros":85988,"calls":["start_session",{"micros":32181,"calls":["api-prd-main-s7jt",{"micros":29453,"calls":["get_user",{"micros":1926},"add_authorized_ip",{"micros":1483},"get_guilds",{"micros":3737},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":6,"calls":[]},"presence_connect",{"micros":31626,"calls":[]}]}]}] (Session ID: bbc82a2f31e0e7c35fd8fab455f055be).
+2021-01-27 09:43:35,164:INFO:discord.client: logging in using static token
+2021-01-27 09:43:35,847:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-27 09:43:36,156:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-pcnz",{"micros":97364,"calls":["discord-sessions-prd-2-48",{"micros":96369,"calls":["start_session",{"micros":77832,"calls":["api-prd-main-p895",{"micros":65360,"calls":["get_user",{"micros":4477},"add_authorized_ip",{"micros":6989},"get_guilds",{"micros":9799},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 7b56d1b8a1130421bd8a664553e466f2).
+2021-01-27 09:44:16,519:INFO:discord.client: logging in using static token
+2021-01-27 09:44:17,155:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-01-27 09:44:17,393:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-db8n",{"micros":106517,"calls":["discord-sessions-prd-2-92",{"micros":104542,"calls":["start_session",{"micros":51688,"calls":["api-prd-main-rgjz",{"micros":47960,"calls":["get_user",{"micros":2640},"add_authorized_ip",{"micros":1558},"get_guilds",{"micros":4830},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":7,"calls":[]},"presence_connect",{"micros":12723,"calls":[]}]}]}] (Session ID: a006753f0deb90486c67c22a15eb77ed).
+2021-02-04 23:24:23,055:INFO:discord.client: logging in using static token
+2021-02-04 23:24:23,742:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-02-04 23:24:23,965:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-wrgj",{"micros":80862,"calls":["discord-sessions-prd-2-119",{"micros":79704,"calls":["start_session",{"micros":62855,"calls":["api-prd-main-45pr",{"micros":50561,"calls":["get_user",{"micros":9885},"add_authorized_ip",{"micros":3965},"get_guilds",{"micros":10599},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":7,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: c1eb3df99ac152c6d323c19feace399b).
+2021-02-04 23:25:14,999:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:25:25,000:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:25:35,000:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:25:45,001:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 40 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:25:55,001:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 50 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:26:05,002:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 60 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:26:15,002:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 70 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:26:25,003:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 80 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:26:35,003:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 90 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:26:45,003:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 100 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:26:55,003:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 110 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:27:05,004:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 120 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:27:15,004:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 130 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:27:25,005:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 140 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:27:35,005:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 150 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:27:45,006:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 160 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-04 23:27:55,007:WARNING:discord.gateway: Shard ID None heartbeat blocked for more than 170 seconds.
+Loop thread traceback (most recent call last):
+  File "C:\Users\palfi\OneDrive\Desktop\discord bot\fricksbot-develop\fricksbot.py", line 403, in <module>
+    client.run('Nzk5NjI1NTI1NDEyMjMzMjM2.YAGTTQ.DDhAQHIfru1nF-zB_1_aLMtP7po')
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 708, in run
+    loop.run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\palfi\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\ext\commands\bot.py", line 172, in on_command_error
+    print('Ignoring exception in command {}:'.format(context.command), file=sys.stderr)
+
+2021-02-08 14:25:57,554:INFO:discord.client: logging in using static token
+2021-02-08 14:25:58,674:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-02-08 14:25:58,990:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-qfvk",{"micros":133805,"calls":["discord-sessions-prd-2-21",{"micros":129038,"calls":["start_session",{"micros":72154,"calls":["api-prd-main-sjbd",{"micros":69402,"calls":["get_user",{"micros":2720},"add_authorized_ip",{"micros":3045},"get_guilds",{"micros":25977},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":9,"calls":[]},"presence_connect",{"micros":17924,"calls":[]}]}]}] (Session ID: cb16e9e8a9275dcb9a386b53cdf85e09).
+2021-03-01 10:11:20,298:INFO:discord.client: logging in using static token
+2021-03-01 10:11:21,219:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-03-01 10:11:21,506:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-vdgj",{"micros":83664,"calls":["discord-sessions-prd-2-124",{"micros":79946,"calls":["start_session",{"micros":30453,"calls":["api-prd-main-xkl8",{"micros":26897,"calls":["get_user",{"micros":2926},"add_authorized_ip",{"micros":1144},"get_guilds",{"micros":4623},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 348b6af221df531e46f3f6043df21bb2).
+2021-03-01 10:13:01,768:INFO:discord.client: logging in using static token
+2021-03-01 10:13:02,529:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-03-01 10:13:02,799:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-n51l",{"micros":112234,"calls":["discord-sessions-prd-2-102",{"micros":109866,"calls":["start_session",{"micros":67110,"calls":["api-prd-main-qdc9",{"micros":64428,"calls":["get_user",{"micros":5066},"add_authorized_ip",{"micros":5891},"get_guilds",{"micros":7598},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":8,"calls":[]},"presence_connect",{"micros":13425,"calls":[]}]}]}] (Session ID: 835f3e8e0a100302dab84740531c3dc2).

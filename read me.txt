@@ -1,0 +1,7 @@
+start
+./nrun.sh
+
+to stop
+
+ps aux | grep python
+kill
